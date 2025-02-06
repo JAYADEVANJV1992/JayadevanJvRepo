@@ -84,6 +84,7 @@ int main()
 	int num = 0;
 	int data=0;
 	int check;
+	int checkBranch;
 	string str;
 	cout << "Enter the number of students" << endl;
 	cin >> num;
