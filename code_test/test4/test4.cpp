@@ -86,6 +86,7 @@ int main()
 	int check;
 	int checkBranch;
 	char v;
+	char v2;
 	string str;
 	cout << "Enter the number of students" << endl;
 	cin >> num;
